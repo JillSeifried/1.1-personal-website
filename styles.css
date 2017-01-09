@@ -1,0 +1,26 @@
+html{
+  background-image: url(http://959thehawk.com/wp-content/uploads/2015/07/hotdog.jpg);
+}
+ url(http://www.hot-dog.org/sites/default/files/pictures/hotdogstories/is%20hot%20dog.jpg);
+}
+h1{
+  text-align: center;
+  color: red;
+  font-family: 'Lemonada', cursive;
+}
+h2{
+  color: blue;
+  font-style: oblique;
+}
+h3{
+  color: green;
+  font-weight: bold;
+  font-size: 30 pix;
+}
+p{
+  font-weight: bold;
+  color: purple;
+}
+li{
+  font-style: italic;
+}
